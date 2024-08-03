@@ -1,0 +1,6 @@
+class   all correct	   dry   normal   oily
+dry     75  7      9.3%	   7	 39 	  29
+normal	80  58	  72.5%	   5	 58	  14
+oily	73  37	  50.6%	   6	 30	  37
+
+total   228 115	  50.43%   18	 127	  80
